@@ -1,3 +1,5 @@
-tobe.txt;To Be (Am/Is/Are);Aidul Candra
-grammar.txt;Kuis Grammar;Aidul Candra
-adverb-adjective.txt;Adverb or Adjective?;Aidul Candra
+tobe.txt;To Be (Am/Is/Are);Zulfikar Bot
+grammar.txt;Kuis Grammar;Zulfikar Bot
+adverb-adjective.txt;Adverb or Adjective?;Zulfikar Bot
+zulfikar-bot-quiz.txt;Materi Random 1;Zulfikar Bot
+zulfikar-bot-quiz2.txt;Materi Random 2;Zulfikar Bot

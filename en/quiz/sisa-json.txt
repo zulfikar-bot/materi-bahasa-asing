@@ -1,0 +1,66 @@
+{
+    "text" : "📝 *I hate living in Bogor because it always ...*",
+    "answer" : "rains",
+    "hint" : "A. _rained_\nB. _is raining_\nC. _rains_\nD. _rain_"
+  },
+  {
+    "text" : "📝 *Tommy and Carly... English very well.*",
+    "answer" : "speak",
+    "hint" : "A. _speaks_\nB. _spoke_\nC. _speaking_\nD. _speak_"
+  },
+  {
+    "text" : "📝 *Do you ... milk?*",
+    "answer" : "like",
+    "hint" : "A. _liked_\nB. _likes_\nC. _like_\nD. _liking_"
+  },
+  {
+    "text" : "📝 *He ... to school yesterday.*",
+    "answer" : "didn't go",
+    "hint" : "A. _don't went_\nB. _doesn't go_\nC. _didn't go_\nD. _didn't went_"
+  },
+  {
+    "text" : "📝 *She ... an ice cream one hour ago.*",
+    "answer" : "wanted",
+    "hint" : "A. _is want_\nB. _wanted_\nC. _did want_\nD. _wants_"
+  },
+  {
+    "text" : "📝 *We ... grandma house last Monday.*",
+    "answer" : "visited",
+    "hint" : "A. _are visited_\nB. _visited_\nC. _did visit_\nD. _was visit_"
+  },
+  {
+    "text" : "📝 *They ... bring any money, when they ... to the market last week.*",
+    "answer" : "didn't - went",
+    "hint" : "A. _don't - went_\nB. _didn't - went_\nC. _didn't - go_\nD. _didn't - gone_"
+  },
+  {
+    "text" : "📝 *Donald ... football last month.*",
+    "answer" : "played",
+    "hint" : "A. _played_\nB. _play_\nC. _plays_\nD. _was play_"
+  },
+  {
+    "text" : "📝 *Don't play outside, Bro. It ...*",
+    "answer" : "is raining",
+    "hint" : "A. _rains_\nB. _raining_\nC. _rain_\nD. _is raining_"
+  },
+  {
+    "text" : "📝 *She ... at that company for three years.*",
+    "answer" : "has been working",
+    "hint" : "A. _have been working_\nB. _has be working_\nC. _has been work_\nD. _has been working_"
+  },
+  {
+    "text" : "📝 *I ... when my mother prepared dinner last night.*",
+    "answer" : "was studying",
+    "hint" : "A. _was study_\nB. _were studying_\nC. _was studying_\nD. _were study_"
+  },
+  {
+    "text" : "📝 *When the student revolution came, I ... there for 6 months.*",
+    "answer" : "had been working",
+    "hint" : "A. _have be working_\nB. _had been working_\nC. _have been working_\nD. _had be working_"
+  },
+  {
+    "text" : "📝 *She ... sleeping when you telephone her.*",
+    "answer" : "will not be",
+    "hint" : "A. _will not been_\nB. _will not_\nC. _will not be_\nD. _will no be_"
+  }
+]

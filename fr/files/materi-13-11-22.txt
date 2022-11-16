@@ -5,6 +5,7 @@ Sun, Nov 13 22
 3. Le colibri - hummingbird (burung kolibri)
 4. L'hirondelle - swallow (burung walet)
 5. L'aigle - eagle (elang) 🦅
+
 6. Le coq - ayam jantan 🐓
 7. Le pélican - pelican (pelikan)
 8. L'autruche - ostrich (burung unta)
@@ -16,6 +17,7 @@ Sun, Nov 13 22
 13. La chouette - owl (burung hantu) 🦉
 14. Le pingouin - pinguin (penguin) 🐧
 15. La chèvre - goat (kambing) 🐐
+
 16. La mouette - seagull (burung camar)
 17. L'araignée - spider (laba-laba) 🕷️🕸️
 18. Le perroquet - parrot (burung beo) 🦜

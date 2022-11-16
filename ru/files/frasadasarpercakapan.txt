@@ -1,0 +1,36 @@
+Frasa dasar percakapan
+
+1. Да : Ya
+2. Нет : Tidak
+3. Правильно : Betul
+4. Я думаю так : Saya setuju
+5. Я извиняюсь : Maaf
+6. Извините : Permisi/maaf
+7. Я понял(а) : Saya mengerti
+8. Я не знаю : Saya tidak tahu
+9. Кажется : Kelihatannya seperti itu
+10. Я не знаю вообще : Saya tidak tahu sama sekali
+11. Это невозможно : Itu tidak mungkin
+12.  Спасибо : Terima kasih
+13. Здравствуйте : Halo
+14. Доброе утро : Selamat pagi
+15. Добрый день : Selamat siang
+16. Добрый вечер : Selamat sore
+
+Cara bacanya
+1. Da
+2. Nyet
+3. Pravil'na
+4. Ya dumayu tak
+5. Ya isviniayus'
+6. Isvinicé
+7. Ya ponyel(a)
+8. Ya nye znayu
+9. Kazhetsya
+10. Ya nye znayu vaabsye
+11. Éta nyevasmoshna
+12. Spasiba
+13. Zdrastuice
+14. Dobroe utra
+15. Dobre den'
+16. Dobre vecer

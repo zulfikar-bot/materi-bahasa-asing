@@ -1,0 +1,29 @@
+Kata tanya dasar 
+1. Что?  : Apa?
+2. Где? : Dimana?
+3. Куда? : Kemana?
+4. Откуда? : Dari mana?
+5. Когда? : Kapan?
+6. Как? : Bagaimana?
+7. Почему? : Mengapa?
+8. Сколько? : Berapa?
+9. Сколько стоит? : Berapa harga?
+10. Кто? : Siapa?
+11. Какой? : Yang mana?
+12. Который час? : Jam berapa?
+13. Чей? : Milik siapa?
+
+Cara bacanya
+1. Shto
+2. Gje
+3. Kuda
+4. Atkuda
+5. Kagda
+6. Kak
+7. Pachemu
+8. Skol'ka
+9. Skol'ka stoit
+10. Kto
+11. Kakoi
+12. Katori cas
+13. Cei

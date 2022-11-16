@@ -1,25 +1,25 @@
 Mon, Nov 14 22
 
-1. Le corbeau - corp
-2. Le cygne - swan 🦢
-3. Le hamburger 🍔
-4. L'aigle - eagle 🦅
-5. La mouette - seagull
+1. Le corbeau - corp (gagak)
+2. Le cygne - swan (angsa) 🦢
+3. Le hamburger - hamburger 🍔
+4. L'aigle - eagle (elang) 🦅
+5. La mouette - seagull (burung camar)
 
-6. L'oie - goose 🦆
-7. L'hirondelle - swallow
+6. L'oie - goose (angsa) 🦆
+7. L'hirondelle - swallow (burung walet/burung layang-layang)
 8. Le flamant - flamingo
-9. Le nichoir - house bird
-10. Le pélican - pélican
+9. Le nichoir - house bird (sangkar burung)
+10. Le pélican - pélican (pelican)
 
-11. L'œuf - egg 🥚
+11. L'œuf - egg (telur) 🥚
 12. Le faucon - Falcon
-13. Le colibri - colibri
-14. La grenouille - frog 🐸
-15. Le camion - truck 🚛
+13. Le colibri - colibri (burung kolibri)
+14. La grenouille - frog (katak/kodok) 🐸
+15. Le camion - truck (truk) 🚛
 
-16. L'apiculteur - beekeeper
-17. Le scarabée - beetle
-18. La chenille - caterpillar
-19. Le gendarme - firebug
+16. L'apiculteur - beekeeper (peternak lebah)
+17. Le scarabée - beetle (kumbang)
+18. La chenille - caterpillar (ulat bulu)
+19. Le gendarme - firebug (kumbang api)
 20. La libellule - capung

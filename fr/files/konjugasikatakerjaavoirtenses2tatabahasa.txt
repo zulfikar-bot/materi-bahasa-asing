@@ -1,0 +1,36 @@
+~ Konjugasi kata kerja avoir ke dalam berbagai tenses :
+
+~ Conditionnel présent (Conditional / Bentuk kata kerja "Bersyarat")
+
+j' aurais
+tu aurais
+il/elle aurait
+nous aurions
+vous auriez
+ils/elles auraient
+
+~ Indicatif passé simple (Passé simple / Bentuk kata kerja pada masa lalu yang sederhana)
+
+j' eus
+tu eus
+il/elle eut
+nous eûmes
+vous eûtes
+ils/elles eurent
+
+~ Subjonctif imparfait (Imperfect subjunctive / Bentuk kata kerja yang digunakan dalam penulisan formal)
+
+j' eusse
+tu eusses
+il/elle eût
+nous eussions
+vous eussiez
+ils/elles eussent
+
+~ Impératif (Imperative / Bentuk kata kerja "Keharusan")
+
+tu aie
+nous ayons
+vous ayez
+
+Semoga bermanfaat :)

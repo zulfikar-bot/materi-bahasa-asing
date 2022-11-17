@@ -1,0 +1,39 @@
+~ Konjugasi kata kerja avoir ke dalam berbagai tenses :
+
+~ Indicatif présent (Present / Bentuk kata kerja "Masa sekarang")
+
+j' ai
+tu as
+il/elle a
+nous avons
+vous avez
+ils/elles ont
+
+~ Indicatif futur (Future / Bentuk kata kerja "Masa depan")
+
+j' aurai
+tu auras
+il/elle aura
+nous aurons
+vous aurez
+ils/elles auront
+
+~ Indicatif imparfait (Imperfect / Bentuk kata kerja "Masa lalu")
+
+j' avais
+tu avais
+il/elle avait
+nous avions
+vous aviez
+ils/elles avaient
+
+~ Subjonctif présent (Subjunctive / Bentuk kata kerja "Pengandaian")
+
+j' aie
+tu aies
+il/elle ait
+nous ayons
+vous ayez
+ils/elles aient
+
+Semoga bermanfaat :)

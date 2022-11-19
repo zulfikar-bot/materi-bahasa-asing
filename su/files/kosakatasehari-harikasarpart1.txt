@@ -1,0 +1,19 @@
+Kosa Kata Sehari-hari Part 1
+
+makan = dahar
+pergi = indit
+lemas = leleus
+permisi = punten
+terimakasih = nuhun
+satu = hiji
+dua = dua
+tiga = tilu
+empat = opat
+lima = lima
+enam = genep
+tujuh = tujuh
+delapan = salapan atau dalapan
+sembilan = sembilan
+sepuluh = sapuluh
+cepat = gancang
+lama = lila

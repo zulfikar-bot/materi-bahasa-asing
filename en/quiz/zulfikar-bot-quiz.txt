@@ -13,7 +13,7 @@ rains,rained,is raining,rain
 [He/She/<(fe)male-name>] and [<(fe)male-name>/He/She] _____ English very well.
 speak,speaks,spoke,speaking
 
-Do you ... milk?.
+Do [you/I] ... milk?.
 like,liked,likes,liking
 
 [I/He/She/<(fe)male-name>] _____ to [<(fe)male-name;;possessive>/<family;!young;possessive>] house [yesterday].

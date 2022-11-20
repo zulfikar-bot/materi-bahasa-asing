@@ -1,31 +1,30 @@
-  {
-    "text" : "📝 *Donald ... football last month.*",
-    "answer" : "played",
-    "hint" : "A. _played_\nB. _play_\nC. _plays_\nD. _was play_"
-  },
-  {
-    "text" : "📝 *Don't play outside, Bro. It ...*",
-    "answer" : "is raining",
-    "hint" : "A. _rains_\nB. _raining_\nC. _rain_\nD. _is raining_"
-  },
-  {
-    "text" : "📝 *She ... at that company for three years.*",
-    "answer" : "has been working",
-    "hint" : "A. _have been working_\nB. _has be working_\nC. _has been work_\nD. _has been working_"
-  },
-  {
-    "text" : "📝 *I ... when my mother prepared dinner last night.*",
-    "answer" : "was studying",
-    "hint" : "A. _was study_\nB. _were studying_\nC. _was studying_\nD. _were study_"
-  },
-  {
-    "text" : "📝 *When the student revolution came, I ... there for 6 months.*",
-    "answer" : "had been working",
-    "hint" : "A. _have be working_\nB. _had been working_\nC. _have been working_\nD. _had be working_"
-  },
-  {
-    "text" : "📝 *She ... sleeping when you telephone her.*",
-    "answer" : "will not be",
-    "hint" : "A. _will not been_\nB. _will not_\nC. _will not be_\nD. _will no be_"
-  }
-]
+Do [they/we/she/he/<(fe)male-name>] ... milk?.
+likes,liked,like,liking
+
+[I/We/They/He/She/<(fe)male-name>] _____ [football/playstation/traditional game] last [month/Friday/week].
+played,play,plays,was play
+
+Don't play outside, [Bro/Sis/<(fe)male-name>]. It _____.
+is raining,rains,raining,rain
+
+[We/They/He/She/<(fe)male-name>] _______ at [that/this/<(fe)male-name;;possessive>] company for [three/four/five] years.
+has been working,have been working,has be working,has been work
+
+[I/He/She/<(fe)male-name>] _______ when [<(fe)male-name;;possessive>/my <family;!young;possessive>] prepared [dinner/breakfast/lunch] last [night/morning/afternoon].
+was studying,was study,were studying,were study
+
+When the student revolution came, [I/We/They/He/She/<(fe)male-name>] _______ there for [6/7/8] months.
+had been working,have be working,have been working,had be working
+
+[I/We/They/He/She/<(fe)male-name>] _______ working when [<(fe)male-name>/I/She/We/He/They/<family;!young>] talk to [me/us/them/his/her/<(fe)male-name>].
+[I/We/They/He/She/<(fe)male-name>] _______ sleeping when [<(fe)male-name>/I/She/We/He/They/<family;!young>] telephone [me/us/them/his/her/<(fe)male-name>].
+will not be,will not been,will not,will no be
+
+[You/We/They] _______ when [<(fe)male-name;;possessive>/my <family;!young;possessive>] prepared [dinner/breakfast/lunch] last [night/morning/afternoon].
+were studying,was studying,was study,were study
+
+[I/We/They] _____ [grandma/<(fe)male-name;;possessive>/<family;!young;possessive>]'s house last [Monday/Tuesday/Wednesday].
+visited,are visited,did visit,was visit
+
+[I] _______ at [that/this/<(fe)male-name;;possessive>] company for [three/four/five] years.
+have been working,has been working,has be working,has been work

@@ -16,7 +16,8 @@ speak,speaks,spoke,speaking
 Do you ... milk?.
 like,liked,likes,liking
 
-[I/He/She/<(fe)male-name>] _____ to [school/office/<(fe)male-name;;possessive>/<family;!young;possessive>]'s house yesterday.
+[I/He/She/<(fe)male-name>] _____ to [<(fe)male-name;;possessive>/<family;!young;possessive>] house [yesterday].
+[I/He/She/<(fe)male-name>] _____ to [office/school] [yesterday/four days ago/five days ago/six days ago].
 didn't go,don't went,doesn't go,didn't went
 
 [I/He/She/<(fe)male-name>] _____ an [ice cream/orange/apple] [one hour/two hours/three hours] ago.

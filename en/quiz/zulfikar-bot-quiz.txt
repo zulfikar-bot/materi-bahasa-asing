@@ -1,10 +1,10 @@
-[I/We/They/He/She/<(fe)male-name>] _____ bring any money, when [I/We/They/He/She/<(fe)male-name>] went to the [market/supermarket/mall] last [Sunday/Saturday/week].
+[I/We/They/He/She/<(fe)male-name>] _____ bring any money, when [I/We/They/He/She/<(fe)male-name>] went to the [market/supermarket/mall] last [<dayoftheweek>/week].
 didn't,don't,does not,is not
 
 Every Sunday afternoon, [He/She/<(fe)male-name>] _____ [his/her/<(fe)male-name;;possessive>] [kid/<(fe)male-name;;possessive>/<family;!young;possessive>] to piano course.
 drives,driven,drive,driving
 
-[He/She/<(fe)male-name>] _______ work as a [profession] at [this/<(fe)male-name;;possessive>] office.
+[He/She/<(fe)male-name>] _______ work as a [<profession>] at [this/<(fe)male-name;;possessive>] office.
 does not,is not,do not,did not
 
 I hate living in [Bogor/Papua] because it always _____.
@@ -16,15 +16,15 @@ speaks,speak,spoke,speaking
 Do [you/I] ... milk?.
 like,liked,likes,liking
 
-[I/He/She/<(fe)male-name>] _____ to [<(fe)male-name;;possessive>/<family;!young;possessive>] house [yesterday].
+[I/He/She/<(fe)male-name>] _____ to [<(fe)male-name;;possessive>/<family;!young;possessive>] house [yesterday/four days ago/five days ago/six days ago].
 [I/He/She/<(fe)male-name>] _____ to [office/school] [yesterday/four days ago/five days ago/six days ago].
 didn't go,don't went,doesn't go,didn't went
 
 [I/He/She/<(fe)male-name>] _____ an [ice cream/orange/apple] [one hour/two hours/three hours] ago.
 wanted,is want,did want,wants
 
-[I/We/They/He/She/<(fe)male-name>] _____ [grandma/<(fe)male-name;;possessive>/<family;!young;possessive>] house last [Monday/Tuesday/Wednesday].
+[I/We/They/He/She/<(fe)male-name>] _____ [grandma/<(fe)male-name;;possessive>/<family;!young;possessive>] house last [<dayoftheweek>].
 visited,are visited,did visit,was visit
 
-[I/We/They/He/She/<(fe)male-name>] didn't bring any money, when [I/We/They/He/She/<(fe)male-name>] _____ to the [market/supermarket/mall] last [Sunday/Saturday/week].
+[I/We/They/He/She/<(fe)male-name>] didn't bring any money, when [I/We/They/He/She/<(fe)male-name>] _____ to the [market/supermarket/mall] last [<dayoftheweek>/week].
 went,go,gone

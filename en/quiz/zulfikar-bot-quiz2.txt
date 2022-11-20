@@ -7,7 +7,7 @@ played,play,plays,was play
 Don't play outside, [Bro/Sis/<(fe)male-name>]. It _____.
 is raining,rains,raining,rain
 
-[We/They/He/She/<(fe)male-name>] _______ at [that/this/<(fe)male-name;;possessive>] company for [three/four/five] years.
+[He/She/<(fe)male-name>] _______ at [that/this/<(fe)male-name;;possessive>] company for [three/four/five] years.
 has been working,have been working,has be working,has been work
 
 [I/He/She/<(fe)male-name>] _______ when [<(fe)male-name>/my <family;!young;possessive>] prepared [dinner/breakfast/lunch] last [night/morning/afternoon].
@@ -26,5 +26,5 @@ were studying,was studying,was study,were study
 [I/We/They] _____ [grandma/<(fe)male-name;;possessive>/<family;!young;possessive>] house last [<dayoftheweek>].
 visited,are visited,did visit,was visit
 
-[I] _______ at [that/this/<(fe)male-name;;possessive>] company for [three/four/five] years.
+[I/We/They/You] _______ at [that/this/<(fe)male-name;;possessive>] company for [three/four/five] years.
 have been working,has been working,has be working,has been work

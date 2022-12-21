@@ -1,41 +1,71 @@
+<!DOCTYPE html>
+	<html>
+		
+		<head>
+			
+			<title>Free Online Tags and Hastags Tool Generator</title>
+			
+		</head>
+		
+		<body>
+			<script>
 function splitColumn(text, n) {
-  const arr = text.split("\n")
-  const total = arr.length
-  const items = Math.floor(total/n)
+const arr = text.split("\n")
+const total = arr.length
+const items = Math.floor(total/n)
 
-  const points = []
-  let current = 0
-  for (let i=0; i<items; i++) {
-   points.push([])
-   for (let j=0; j<n; j++) {
-     points[i].push(arr.shift())
-   }
-  }
-
-  while(arr.length) {
-    points.at(-1).push(
-      arr.shift()
-    )
-  }
-
-  return points.map(c => c.filter(d => d).join(', ')).join('\n')
+const points = []
+let current = 0
+for (let i=0; i points.push([])
+for (let j=0; j c.filter(d => d).join(', ')).join('\n')
 }
 
-const myText = "abc t\ndef\nghi\njkl\nmno\npqr\nstu\nvwx\nyz\n123\n456\n789"
-
 function getHashtags(inp) {
-  const input = inp.split('\n')
+const input = inp.split('\n')
 let hasil = ""
-for (let i=0; i<input.length; i++) {
-  const words = input[i].replaceAll(' ','').match(/\w+/g)
-
-const hashed = words.map(w=>"#"+w)
+for (let i=0; i"#"+w)
 
 hasil += hashed.join(' ')+'\n'
 }
-  return hasil
+return hasil
 }
 
-console.log(
-getHashtags(splitColumn(myText, 3))
-)
+function buttonClick() {
+ let keywords = document.getElementById("keywords").value;
+ let count = document.getElementById("value").value;
+ let tags = splitColumn(keywords, count);
+ document.getElementById("tags").innerHTML = tags;
+ let hashtags = getHashtags(tags);
+ document.getElementById("hashtags").innerHTML = hashtags;
+}
+</script>
+      <header>
+			  <h2>Free Online Tags and Hastags Tool Generator</h2>
+      </header>  
+
+      <main>
+        <div id="keyword-box">
+          <label for="keywords">Paste your keywords here:</label>
+      <textarea id="keywords" cols="50" rows="4" placeholder="keywords..." required></textarea>
+        </div>
+
+        <div id="button">
+          <input id="value" name="value" type="number" placeholder="value..." required/> <button onclick="buttonClick()">Convert</button>
+        </div>
+        <br>
+        
+        <div id="tag-box">
+          <p id="tags">
+            Your tags will appear here after you click the button!
+          </p>
+        </div>
+        <br>
+        <div id="hashtag-box">
+          <p id="hashtags">
+            Your hastags will appear here after you click the button!
+          </p>
+        </div>
+		</main>	
+		</body>
+		
+	</html>

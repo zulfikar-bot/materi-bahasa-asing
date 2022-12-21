@@ -1,0 +1,9 @@
+🤖 *Hasil Respon Open Ai:*
+
+<script>
+  function copyPaste() {
+    var copyText = document.getElementById("copyText");
+    copyText.select();
+    document.execCommand("copy");
+  }
+</script>
